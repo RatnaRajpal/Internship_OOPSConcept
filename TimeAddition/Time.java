@@ -24,14 +24,14 @@ public class Time {
 	public Time add(Time time){
 		Time t=new Time();
 		t.sec=this.sec+time.sec;
-		if(t.sec>60)
+		if(t.sec>=60)
 			{
 			t.sec-=60;
 			t.min++;
 		}
 		
 		t.min+=this.min+time.min;
-		if(t.min>60){
+		if(t.min>=60){
 			t.min-=60;
 			t.hr++;
 		}
