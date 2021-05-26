@@ -26,14 +26,16 @@ public class Time {
 		t.sec=this.sec+time.sec;
 		if(t.sec>=60)
 			{
-			t.sec-=60;
-			t.min++;
+		
+			t.min=(int)t.sec/60;
+			t.sec=t.sec%60;
 		}
 		
 		t.min+=this.min+time.min;
 		if(t.min>=60){
-			t.min-=60;
-			t.hr++;
+			
+			t.hr=(int)t.min/60;
+			t.min=t.min%60;
 		}
 		
 		t.hr+=this.hr+time.hr;
