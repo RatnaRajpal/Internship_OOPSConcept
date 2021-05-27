@@ -3,7 +3,7 @@ operations on the stack. Create two stacks and write a menu-driven program to pe
 the two stacks. Whenever the number of elements in the two stacks becomes equal, a message should
 automatically be generated displaying the number of elements in each stack*/
 
-package Assignment1;
+package Assignment1.Question2;
 import java.util.Scanner;
 
 public class Stack {
