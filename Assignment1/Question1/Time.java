@@ -4,7 +4,7 @@ Time object and passes Time object. In the main method, declare two Time objects
 using constructor and call the add ( ) method.
 */
 
-package Assignment1;
+package Assignment1.Question1;
 import java.util.*; 
 
 public class Time {
