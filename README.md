@@ -1,6 +1,6 @@
 # Internship_OOPSConcept
 
-## The Repository Contains code for the following problems:
+## Assignment 1:
 1. Create a class called Time, which has three private instance variables – hour, min and sec. It contains a
 method called add ( ) which takes one Time object as parameter and print the added value of the calling
 Time object and passes Time object. In the main method, declare two Time objects and assign values
