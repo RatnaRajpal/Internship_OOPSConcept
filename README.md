@@ -17,7 +17,7 @@ the x-y coordinate pairs for the four endpoints of the Quadrilateral. Write a pr
 objects of your classes and outputs each object's area (except Quadrilateral).
 
 
-## ------------------------------------------------------------------------------------------------------------
+## ----------------------------------------------------------------------------------------------------
 
 ## Assignment 2:
 
@@ -29,6 +29,8 @@ objects of your classes and outputs each object's area (except Quadrilateral).
 
 4. Write a program to traverse Tree Set.
 
-5.Write a program to calculate occurrences of each element of an array list.
+5. Write a program to calculate occurrences of each element of an array list.
 
 6. Write a program to find the Pair from an array list whose sum will be K, where K will be taken as input
+
+## ----------------------------------------------------------------------------------------------------
