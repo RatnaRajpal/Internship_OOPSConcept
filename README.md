@@ -15,3 +15,20 @@ automatically be generated displaying the number of elements in each stack.
 Use Quadrilateral as the super class of the hierarchy. The instance variables of Quadrilateral should be
 the x-y coordinate pairs for the four endpoints of the Quadrilateral. Write a program that instantiates
 objects of your classes and outputs each object's area (except Quadrilateral).
+
+
+## ------------------------------------------------------------------------------------------------------------
+
+## Assignment 2:
+
+1. Write a program to check whether an array list contains an element or not.
+
+2. Write a program to check whether set contains an element or not.
+
+3. Write a program to traverse HashSet. 
+
+4. Write a program to traverse Tree Set.
+
+5.Write a program to calculate occurrences of each element of an array list.
+
+6. Write a program to find the Pair from an array list whose sum will be K, where K will be taken as input
