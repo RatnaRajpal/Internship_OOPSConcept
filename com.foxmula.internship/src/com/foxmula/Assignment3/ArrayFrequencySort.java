@@ -17,24 +17,24 @@ public class ArrayFrequencySort {
 	
 	void sortByValue(HashMap<Integer,Integer> hashMap) {
 	
-		 // Create a list from elements of HashMap
-        List<Map.Entry<Integer, Integer> > list =
-               new LinkedList<Map.Entry<Integer, Integer> >(hashMap.entrySet());
- 
-        // Sort the list
-        Collections.sort(list, new Comparator<Map.Entry<Integer, Integer>>() {
-        	@Override
-            public int compare(Map.Entry<Integer, Integer> ele1,
-                               Map.Entry<Integer, Integer> ele2)
-            {
-                return (ele1.getValue()).compareTo(ele2.getValue());
-            }
-        });
-        
-        for (Map.Entry<Integer, Integer> out : list) {
-        	System.out.print("("+out.getKey()+"-->"+out.getValue()+")  ");
-        }
-       
+		//Creating a list from elements of HashMap
+       		List<Map.Entry<Integer, Integer> > list =
+		       new LinkedList<Map.Entry<Integer, Integer> >(hashMap.entrySet());
+
+		//Sort the list
+		Collections.sort(list, new Comparator<Map.Entry<Integer, Integer>>() {
+			@Override
+		    public int compare(Map.Entry<Integer, Integer> ele1,
+				       Map.Entry<Integer, Integer> ele2)
+		    {
+			return (ele1.getValue()).compareTo(ele2.getValue());
+		    }
+		});
+
+		for (Map.Entry<Integer, Integer> out : list) {
+			System.out.print("("+out.getKey()+"-->"+out.getValue()+")  ");
+		}
+
 	}
 
 
