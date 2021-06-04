@@ -34,3 +34,15 @@ objects of your classes and outputs each object's area (except Quadrilateral).
 6. Write a program to find the Pair from an array list whose sum will be K, where K will be taken as input
 
 ## ---------------------------------------------------------------------------------
+
+## Assignment 3:
+
+1. Write a program to calculate frequency/occurrences of each element of an array.
+
+2. Write a program which will take a number as input. If number is prime and odd, then it will throw Custom 
+Exception with proper message Number is invalid.
+
+3. Write a program calculate frequency/occurrences of each element of an array and then sort by value and then 
+print it.
+
+## ---------------------------------------------------------------------------------
