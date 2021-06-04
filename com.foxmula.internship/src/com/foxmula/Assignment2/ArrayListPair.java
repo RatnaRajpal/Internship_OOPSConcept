@@ -13,9 +13,6 @@ public class ArrayListPair {
 		
 	}
 	
-	void checkOccurence(int n) {
-		
-	}
 	
 	void findpairs(ArrayList<Integer> list,int k) {
 		
