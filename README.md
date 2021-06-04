@@ -1,5 +1,6 @@
 # Internship_OOPSConcept
 
+(May 26,2021)
 ## Assignment 1:
 1. Create a class called Time, which has three private instance variables – hour, min and sec. It contains a
 method called add ( ) which takes one Time object as parameter and print the added value of the calling
@@ -19,6 +20,7 @@ objects of your classes and outputs each object's area (except Quadrilateral).
 
 ## -------------------------------------------------------------------------------
 
+(May 31,2021)
 ## Assignment 2:
 
 1. Write a program to check whether an array list contains an element or not.
@@ -35,6 +37,7 @@ objects of your classes and outputs each object's area (except Quadrilateral).
 
 ## ---------------------------------------------------------------------------------
 
+(June 03,2021)
 ## Assignment 3:
 
 1. Write a program to calculate frequency/occurrences of each element of an array.
