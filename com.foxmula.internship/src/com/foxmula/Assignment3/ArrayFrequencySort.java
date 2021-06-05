@@ -23,7 +23,6 @@ public class ArrayFrequencySort {
 
 		//Sort the list
 		Collections.sort(list, new Comparator<Map.Entry<Integer, Integer>>() {
-			@Override
 		    public int compare(Map.Entry<Integer, Integer> ele1,
 				       Map.Entry<Integer, Integer> ele2)
 		    {
